@@ -5,10 +5,10 @@
   "description": "preview geojson in an app",
   "dependencies": {
     "dnode": "^1.2.0",
-    "electron-prebuilt": "^0.25.1",
+    "electron-prebuilt": "^0.26.0",
     "geojson-extent": "^0.3.1",
     "geojson-normalize": "0.0.0",
-    "minimist": "^0.2.0"
+    "minimist": "^1.2.2"
   },
   "devDependencies": {},
   "scripts": {
